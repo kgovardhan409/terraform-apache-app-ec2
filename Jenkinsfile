@@ -67,7 +67,7 @@ pipeline {
 
             when {
 
-                branch 'main'
+                branch 'master'
 
             }
 
